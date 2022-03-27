@@ -1,0 +1,18 @@
+Package: interviewR
+Title: Asks standard interview questions
+Version: 0.0.1
+Authors@R: 
+    person("Zane", "Dax", , "zane.daxa@gmail.com", role = c("aut", "cre") )
+Description: Returns interview questions at random.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports:
+  glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
