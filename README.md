@@ -4,3 +4,9 @@
 # interviewR
 
 a R pkg for common interview questions 
+
+
+load interviewR pkg
+```
+`devtools::install_github("PythonCoderUnicorn/interviewR")`
+```
